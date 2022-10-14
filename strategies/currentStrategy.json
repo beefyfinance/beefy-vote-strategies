@@ -1,0 +1,167 @@
+{
+  "symbol": "BIFI",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xC7CB2f504AED1414F01b89EFF3E32A3a44cd9ecC",
+        "decimals": 18
+      },
+      "network": "56",
+      "description": "bsc-legacy"
+    },
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x2f8649bC64D7133aA56b0e22A620A76409955570",
+        "decimals": 18
+      },
+      "network": "56",
+      "description": "bsc-active"
+    },
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xd6cd30b5D4CbAB7951a05CC6Be36423980ad74f3",
+        "decimals": 18
+      },
+      "network": "56",
+      "description": "bsc-vested-bifi"
+    },
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x192e6768b53029c49609275846cc119b20ad6e76",
+        "decimals": 18
+      },
+      "network": "56",
+      "description": "bsc-moonpot"
+    },
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x777DE3cCd7c8F18306663eD97aeA0C30f4ee5146",
+        "decimals": 18
+      },
+      "network": "137",
+      "description": "polygon"
+    },
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x6CA2b0C24059B8322B87f04209d7B183621C50c4",
+        "decimals": 18
+      },
+      "network": "137",
+      "description": "polygon-giddy"
+    },
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xfbD63fadb7B13E0599c3643405276f97217147B2",
+        "decimals": 18
+      },
+      "network": "42161",
+      "description": "arbitrum"
+    },
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x7920f58FdA180C8B3d2CaE7280b5A0FFAF229978",
+        "decimals": 18
+      },
+      "network": "42161",
+      "description": "arbitrum-pae"
+    },
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x74037AEe034D2bD5cD2eEc043FE5ad9cE2e90275",
+        "decimals": 18
+      },
+      "network": "43114",
+      "description": "avax"
+    },
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xE9FA52Cb4454e06a2608Ee7D4c0c5530BF8dc3B0",
+        "decimals": 18
+      },
+      "network": "1285",
+      "description": "moonriver"
+    },
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x0CBEc620B4fB839558d73947F4444F107885D38c",
+        "decimals": 18
+      },
+      "network": "250",
+      "description": "fantom"
+    },
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xC754f80126F63c5B0903D86D684c322e0dC0701C",
+        "decimals": 18
+      },
+      "network": "250",
+      "description": "fantom-qidao"
+    },
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xdd8DaFE541bBAD18d9fa7233a0e3b22dE366D72C",
+        "decimals": 18
+      },
+      "network": "250",
+      "description": "fantom-moonpot"
+    },
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xB88a3FbB5136d3F1B96aF208ddce5a103D9EaE7A",
+        "decimals": 18
+      },
+      "network": "25",
+      "description": "cronos"
+    },
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xeCD68D935Fd331EbA27381929845737346577943",
+        "decimals": 18
+      },
+      "network": "1284",
+      "description": "moonbeam"
+    },
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xeCD68D935Fd331EbA27381929845737346577943",
+        "decimals": 18
+      },
+      "network": "1313161554",
+      "description": "aurora"
+    },
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x46963fE344f51E902783515d6A308855A8C16f96",
+        "decimals": 18
+      },
+      "network": "122",
+      "description": "fuse"
+    },
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0xDCd038F3004a752DdDDfe3A5E412ca0D1f809649",
+        "decimals": 18
+      },
+      "network": "10",
+      "description": "optimism"
+    }
+  ]
+}
